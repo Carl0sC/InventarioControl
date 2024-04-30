@@ -1,0 +1,13 @@
+Características Principales:
+
+Registro de Productos: El sistema permitirá ingresar nuevos productos al inventario, incluyendo información detallada como nombre, descripción, categoría, precio, proveedor, cantidad disponible, entre otros.
+Seguimiento de Inventario: Se podrán realizar consultas para verificar la disponibilidad de productos en tiempo real, así como también realizar ajustes de inventario como entradas, salidas, traslados, y devoluciones.
+Alertas de Stock: El sistema enviará notificaciones automáticas cuando los niveles de stock alcancen ciertos umbrales predefinidos, lo que ayudará a evitar la escasez de productos y optimizar los niveles de inventario.
+Gestión de Pedidos: Se podrán generar y gestionar pedidos de compra automáticamente según los niveles de inventario y las necesidades de la empresa, lo que facilitará la reposición oportuna de productos.
+Informes y Análisis: Se generarán informes detallados sobre el movimiento del inventario, tendencias de ventas, productos más vendidos, entre otros datos relevantes, para facilitar la toma de decisiones estratégicas.
+Beneficios Esperados:
+
+Mejora en la eficiencia operativa al optimizar los niveles de inventario y evitar excesos o faltantes.
+Reducción de costos al minimizar pérdidas por obsolescencia o productos no vendidos.
+Mejora en la satisfacción del cliente al garantizar la disponibilidad de productos requeridos.
+El sistema se desarrollará utilizando tecnologías modernas de desarrollo de software y se adaptará a las necesidades específicas de la empresa, brindando una solución personalizada y escalable para el control de inventario.
